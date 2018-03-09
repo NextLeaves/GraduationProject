@@ -1,2 +1,2 @@
 # GraduationProject
-Something about ducoments in graduation porject.
+Some documentation on graduation projects
